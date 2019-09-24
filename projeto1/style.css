@@ -1,0 +1,27 @@
+*{
+	box-sizing: border-box;
+	font-family: tahoma, sans-serif;
+	text-align: center;
+
+}
+
+.main {
+	text-align: center;
+}
+
+.imc {
+	max-width: 500px;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	padding: 20px; 
+}
+
+.imc input{
+	padding-right: 10px;
+	margin-bottom: 1rem;
+}
+
+.fimImc {
+	border-radius: 20px;
+}
