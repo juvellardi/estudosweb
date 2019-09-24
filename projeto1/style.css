@@ -5,7 +5,7 @@
 
 }
 
-.main {
+main {
 	text-align: center;
 }
 
@@ -15,6 +15,8 @@
 	display: flex;
 	flex-direction: column;
 	padding: 20px; 
+	box-shadow: 20px 30px 60px 2px olive;
+	border-radius: 5%;
 }
 
 .imc input{
